@@ -1,5 +1,5 @@
 
-# Sentiment Analysis (Test)
+# Sentiment Analysis
 
 Following was made on Colabs. It summerizes financial reports and then checks sentiments within it.
 
