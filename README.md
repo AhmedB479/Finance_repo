@@ -6,11 +6,8 @@ Following was made on Colabs. It summerizes financial reports and then checks se
 
 ## Acknowledgements
 
-financial model
-https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis
+- [financial model link](https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis)
 
-base model
-https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment
+- [base model link](https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment)
 
-summary model
-https://huggingface.co/pszemraj/led-large-book-summary?text=I+felt+really+good+today
+- [summary model link](https://huggingface.co/pszemraj/led-large-book-summary?text=I+felt+really+good+today)
